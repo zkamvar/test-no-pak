@@ -328,14 +328,8 @@
     "mime": {
       "Package": "mime",
       "Version": "0.12",
-      "Source": "CRAN",
+      "Source": "Repository",
       "Repository": "CRAN",
-      "RemoteType": "standard",
-      "RemotePkgRef": "mime",
-      "RemoteRef": "mime",
-      "RemoteRepos": "https://cran.rstudio.com",
-      "RemotePkgPlatform": "source",
-      "RemoteSha": "0.12",
       "Hash": "18e9c28c1d3ca1560ce30658b22ce104"
     },
     "munsell": {
